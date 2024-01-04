@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Oliwia
-- 👀 I’m currently looking for my first job as a Junior Developer or Software Tester
-- 🌱 I’m interested in growing my software skills
+- 🌱 I’m interested in growing my software dev and testing skills
